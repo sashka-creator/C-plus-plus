@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Sasha New\Desktop\+++\C++\step 30.03.2023 practice\step\main.cpp(27): warning C4715: 'Circle::operator+': not all control paths return a value
+  step.vcxproj -> C:\Users\Sasha New\Desktop\+++\C++\step 30.03.2023 practice\x64\Debug\step.exe
