@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Sasha New\Desktop\+++\C++\step 07.04.2023\step\main.cpp(60,13): warning C4101: 'seatNumber': unreferenced local variable
+  step.vcxproj -> C:\Users\Sasha New\Desktop\+++\C++\step 07.04.2023\x64\Debug\step.exe
