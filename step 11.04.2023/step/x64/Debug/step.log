@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Sasha New\Desktop\+++\C++\step 30.03.2023\step\main.cpp(89,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sasha New\Desktop\+++\C++\step 30.03.2023\step\main.cpp(90,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  step.vcxproj -> C:\Users\Sasha New\Desktop\+++\C++\step 30.03.2023\x64\Debug\step.exe
