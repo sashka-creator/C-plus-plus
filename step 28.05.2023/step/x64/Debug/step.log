@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(27,10): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(40): message : see declaration of 'std'
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(27,15): error C2065: 'cout': undeclared identifier
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(29,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(40): message : see declaration of 'std'
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(29,19): error C2065: 'cout': undeclared identifier
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(32,10): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(40): message : see declaration of 'std'
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(32,15): error C2065: 'cout': undeclared identifier
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(32,23): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(40): message : see declaration of 'std'
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(32,27): error C2065: 'endl': undeclared identifier
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(34,10): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(40): message : see declaration of 'std'
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(34,15): error C2065: 'cout': undeclared identifier
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(36,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\algorithm(40): message : see declaration of 'std'
+C:\Users\Sasha New\Desktop\+++\C++\step 27.05.2023\step\main.cpp(36,19): error C2065: 'cout': undeclared identifier
