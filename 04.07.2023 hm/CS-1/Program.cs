@@ -50,8 +50,6 @@ class Program
 
 //
 
-using System;
-
 struct DecimalNumber
 {
     private double value;
